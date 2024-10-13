@@ -295,6 +295,7 @@
 				DEVELOPMENT_TEAM = SQW9QT52A6;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "I am an IOS Developer/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "IOS Dev";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -323,6 +324,7 @@
 				DEVELOPMENT_TEAM = SQW9QT52A6;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "I am an IOS Developer/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "IOS Dev";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
